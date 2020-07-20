@@ -1,5 +1,5 @@
 This code is associated with the paper from Kloosterman et al., "Boosting brain signal variability tracks
-liberal shifts in decision bias". eLife, 2020. http://doi.org/10.7554/eLife.54139
+liberal shifts in decision bias". eLife, 2020. http://doi.org/10.7554/eLife.54201
 
 # mMSE
 Code &amp; short tutorial for modified multi-scale entropy analysis
